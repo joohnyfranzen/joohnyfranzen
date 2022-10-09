@@ -2,7 +2,7 @@
 
 <p> Be welcome to my portfólio, my name is Jonathan and I`m glad to see that you are intersted in my projects</p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgM7PQeLM6XbaO16J-Vl2eEO-tO6zU9FNlTg&usqp=CAU" width="400" alt="Laravel Logo">
+<img src="https://w7.pngwing.com/pngs/526/119/png-transparent-hand-thumb-sign-ok-yes-positive-approve-gesturing-communication-blue-community.png" width="400" alt="Laravel Logo">
 
 
 
