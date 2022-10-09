@@ -8,13 +8,13 @@
 
 <h2> I have affinity with back-end, but I`m also flexible and like to try a lot of frameworks, I have knowledge about these:<h2/>
 
-    <p>Node js<p/>
+<p>Node js<p/>
 
-    <p>Nest js<p/>
+<p>Nest js<p/>
 
-    <p>Laravel<p/>
+<p>Laravel<p/>
 
-    <p>React<p/>
+<p>React<p/>
 
   
   
