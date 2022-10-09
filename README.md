@@ -16,9 +16,10 @@
 
     <p>React<p/>
 
-Something about each Project...
+<p> Something about each Project...<p/>
     
-Starting with *-* <img src="https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g" width="200" alt="Node Logo">
-
+<p> Starting with *-* <
+    img src="https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g" width="200" alt="Node Logo">
+<p/>
 
 
