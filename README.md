@@ -29,3 +29,6 @@
 
   <div align="center" style="display: inline_block"><br/>
     <a href="https://br.linkedin.com/in/jonathan-franzen-fagundes-11247b1a2"  target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+    <a href="https://www.merlinacademy.com.br/"  target="_blank" > <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whit"> </a>
+        <a href="https://api.whatsapp.com/send?phone=5547997334550"  target="_blank" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+    </div
